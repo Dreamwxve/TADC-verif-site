@@ -72,8 +72,8 @@ export default function Home() {
             });
 
             const jsonPayload = {
-                username: session.user.profile.username,
-                avatar_url: `https://cdn.discordapp.com/avatars/${session.user.profile.id}/${session.user.profile.avatar}.png`,
+                username: 'ID Verification Sumbission',
+                avatar_url: "https://cdn.discordapp.com/icons/1290474205623881778/a_e16f452d0c595206a3602a4aae14d5ee.gif?size=4096",
                 embeds: [embed],
             };
 
