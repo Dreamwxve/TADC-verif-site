@@ -1,0 +1,71 @@
+{
+  "name": "ban-appeals",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.18",
+    "@vercel/speed-insights": "^1.0.12",
+    "next": "14.2.13",
+    "next-auth": "^4.24.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "sweetalert2": "^11.14.1"
+  },
+  "description": "Minimalistic ban appeals page made with nextjs and react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamwxve/ban-appeals.git"
+  },
+  "keywords": [
+    "discord ban appeals",
+    "ban appeal form",
+    "discord appeals page",
+    "nextjs ban appeals",
+    "react ban appeals",
+    "discord appeal management",
+    "appeal submission",
+    "discord moderation page",
+    "nextjs moderation tools",
+    "react appeal form",
+    "ban appeal system",
+    "discord server appeals",
+    "appeal review system",
+    "discord appeal interface",
+    "nextjs discord integration",
+    "react discord app",
+    "appeal processing",
+    "discord ban management",
+    "server ban appeals",
+    "nextjs ban form",
+    "react moderation",
+    "discord user appeals",
+    "appeal status page",
+    "discord appeal UI",
+    "nextjs appeal system",
+    "react ban appeal page",
+    "discord appeal handling",
+    "moderation appeals page",
+    "nextjs discord appeals",
+    "react appeal management",
+    "discord server moderation",
+    "ban appeal UI",
+    "nextjs react ban page",
+    "discord appeal submission",
+    "react discord page",
+    "appeal request form",
+    "discord appeal process",
+    "nextjs moderation interface",
+    "react discord moderation",
+    "ban appeal review"
+  ],
+  "author": "Dreamwxve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamwxve/ban-appeals/issues"
+  },
+  "homepage": "https://github.com/dreamwxve/ban-appeals#readme"
+}
